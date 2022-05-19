@@ -1,0 +1,21 @@
+.Badge{
+    border-radius: 10%;
+    Background-color: saddlebrown;
+    display: inline-block;
+    padding:10px;
+    box-sizing: border-box
+}
+
+.Cute-dog {
+    width: 300px;
+    border: 10px dashed brown;
+    border-radius: 50%;
+    box-shadow: 0 50px 50px rgb(147, 48, 48);
+}
+
+.Dog-name {
+    text-align: center;
+    color: sandybrown;
+    font-style: italic;
+    text-decoration: underline;
+}
